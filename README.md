@@ -15,7 +15,7 @@ This project is a **responsive and stylish set of 3D-styled social media buttons
 
 ## 📸 Preview
 
-![Preview Image](<img width="577" height="434" alt="Screenshot 2025-08-15 172716">) 
+![Preview Image](https://freeimage.host/i/FDv5Qaf)
 
 ## live demo
 [Netlify](https://comfy-peony-775f50.netlify.app/)
