@@ -1,5 +1,3 @@
-# Social-media-3D-buttons
-
 
 # 🎯 Social Circle 3D Button
 
@@ -17,7 +15,8 @@ This project is a **responsive and stylish set of 3D-styled social media buttons
 
 ## 📸 Preview
 
-![Preview Image](https://postimg.cc/4Y36WMFK) 
+![Preview Image](<img width="577" height="434" alt="Screenshot 2025-08-15 172716" src="https://github.com/user-attachments/assets/98517a37-016a-42f5-950b-d2fc49a3bde2" />
+) 
 
 ## live demo
 [Netlify](https://comfy-peony-775f50.netlify.app/)
@@ -39,7 +38,5 @@ Feel free to reach out or follow me for more projects and updates:
 💼 LinkedIn: www.linkedin.com/in/abhinandan-kumar-864a77332
 
 
-
-
-
-                                                                                                                                   🔧 Made with ❤️ by @abhinandan169
+  
+  🔧 Made with ❤️ by @abhinandan169
