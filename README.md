@@ -22,8 +22,6 @@ This project is a **responsive and stylish set of 3D-styled social media buttons
 - CSS3
 - [Font Awesome v4.7](https://fontawesome.com/v4.7.0/)
 
-
-
 🔗 Connect With Me
 
 Feel free to reach out or follow me for more projects and updates:
@@ -34,4 +32,4 @@ Feel free to reach out or follow me for more projects and updates:
 
 
   
-                                        🔧 Made with ❤️ by @abhinandan169
+               🔧 Made with ❤️ by @abhinandan169
