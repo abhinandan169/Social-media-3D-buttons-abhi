@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #252525;
+}
+
+ul {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+ul li {
+  list-style: none;
+}
+
+ul li a {
+  position: relative;
+  width: 60px;
+  height: 60px;
+  display: block;
+  text-align: center;
+  margin: 0 10px;
+  border-radius: 50%;
+  padding: 6px;
+  box-sizing: border-box;
+  text-decoration: none;
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.3);
+  background: linear-gradient(0deg, #dddddd, #ffffff);
+  transition: 0.5s;
+}
+
+ul li a:hover {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+ul li a .fa {
+  width: 100%;
+  height: 100%;
+  display: block;
+  background: linear-gradient(0deg, #ffffff, #dddddd);
+  border-radius: 50%;
+  line-height: 50px;
+  font-size: 24px;
+  color: #262626;
+  transition: 0.5s;
+}
+
+ul li:nth-child(1) a:hover .fa {
+  color: #3b71e5;
+}
+ul li:nth-child(2) a:hover .fa {
+  color: #00aced;
+}
+ul li:nth-child(3) a:hover .fa {
+  color: #f32105;
+}
+ul li:nth-child(4) a:hover .fa {
+  color: #007bb6;
+}
+ul li:nth-child(5) a:hover .fa {
+  color: #f511ad;
+}
