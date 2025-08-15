@@ -13,10 +13,6 @@ This project is a **responsive and stylish set of 3D-styled social media buttons
 - 🔹 Fully responsive and centered layout
 
 
-## 📸 Preview
-
-![Preview Image](https://freeimage.host/i/FDv5Qaf)
-
 ## live demo
 [Netlify](https://comfy-peony-775f50.netlify.app/)
 
@@ -38,4 +34,4 @@ Feel free to reach out or follow me for more projects and updates:
 
 
   
-  🔧 Made with ❤️ by @abhinandan169
+                                        🔧 Made with ❤️ by @abhinandan169
